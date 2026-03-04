@@ -1,0 +1,910 @@
+,PATNO,EVENT_ID,COHORT_DEFINITION,NHY
+15,3003,V08,Parkinson's Disease,2.0
+51,3018,V08,Parkinson's Disease,2.0
+57,3020,V08,Parkinson's Disease,3.0
+99,3028,V08,Parkinson's Disease,2.0
+105,3051,V08,Parkinson's Disease,2.0
+117,3054,V08,Parkinson's Disease,2.0
+123,3056,V08,Parkinson's Disease,2.0
+129,3058,V08,Parkinson's Disease,3.0
+141,3060,V08,Parkinson's Disease,1.0
+147,3061,V08,Parkinson's Disease,1.0
+159,3066,V08,Parkinson's Disease,2.0
+165,3067,V08,Parkinson's Disease,2.0
+171,3068,V08,Parkinson's Disease,2.0
+183,3077,V08,Parkinson's Disease,3.0
+189,3078,V08,Parkinson's Disease,2.0
+213,3086,V08,Parkinson's Disease,2.0
+219,3088,V08,Parkinson's Disease,2.0
+225,3089,V08,Parkinson's Disease,2.0
+243,3107,V08,Parkinson's Disease,2.0
+255,3110,V08,Parkinson's Disease,2.0
+261,3111,V08,Parkinson's Disease,2.0
+267,3113,V08,Parkinson's Disease,2.0
+273,3116,V08,Parkinson's Disease,2.0
+279,3118,V08,Parkinson's Disease,2.0
+291,3120,V08,Parkinson's Disease,2.0
+297,3122,V08,Parkinson's Disease,2.0
+309,3124,V08,Parkinson's Disease,2.0
+345,3130,V08,Parkinson's Disease,1.0
+357,3132,V08,Parkinson's Disease,2.0
+369,3134,V08,Parkinson's Disease,2.0
+375,3150,V08,Parkinson's Disease,2.0
+381,3154,V08,Parkinson's Disease,2.0
+387,3162,V08,Parkinson's Disease,2.0
+411,3168,V08,Parkinson's Disease,5.0
+417,3173,V08,Parkinson's Disease,1.0
+423,3174,V08,Parkinson's Disease,2.0
+429,3175,V08,Parkinson's Disease,2.0
+435,3176,V08,Parkinson's Disease,2.0
+447,3178,V08,Parkinson's Disease,3.0
+459,3180,V08,Parkinson's Disease,3.0
+465,3181,V08,Parkinson's Disease,1.0
+477,3184,V08,Parkinson's Disease,2.0
+483,3185,V08,Parkinson's Disease,3.0
+489,3186,V08,Parkinson's Disease,2.0
+525,3209,V08,Parkinson's Disease,2.0
+537,3211,V08,Parkinson's Disease,2.0
+543,3212,V08,Parkinson's Disease,2.0
+573,3224,V08,Parkinson's Disease,2.0
+579,3225,V08,Parkinson's Disease,2.0
+597,3228,V08,Parkinson's Disease,2.0
+603,3229,V08,Parkinson's Disease,3.0
+609,3230,V08,Parkinson's Disease,2.0
+615,3231,V08,Parkinson's Disease,2.0
+711,3278,V08,Parkinson's Disease,2.0
+777,3307,V08,Parkinson's Disease,2.0
+789,3309,V08,Parkinson's Disease,2.0
+801,3312,V08,Parkinson's Disease,2.0
+831,3323,V08,Parkinson's Disease,2.0
+837,3325,V08,Parkinson's Disease,2.0
+849,3328,V08,Parkinson's Disease,1.0
+867,3332,V08,Parkinson's Disease,4.0
+897,3360,V08,Parkinson's Disease,2.0
+951,3375,V08,Parkinson's Disease,2.0
+1005,3392,V08,Parkinson's Disease,2.0
+1011,3400,V08,Parkinson's Disease,2.0
+1017,3403,V08,Parkinson's Disease,3.0
+1023,3406,V08,Parkinson's Disease,2.0
+1029,3407,V08,Parkinson's Disease,2.0
+1035,3409,V08,Parkinson's Disease,2.0
+1047,3415,V08,Parkinson's Disease,2.0
+1059,3417,V08,Parkinson's Disease,1.0
+1065,3418,V08,Parkinson's Disease,2.0
+1071,3419,V08,Parkinson's Disease,1.0
+1077,3420,V08,Parkinson's Disease,1.0
+1083,3421,V08,Parkinson's Disease,1.0
+1089,3422,V08,Parkinson's Disease,2.0
+1095,3423,V08,Parkinson's Disease,2.0
+1101,3429,V08,Parkinson's Disease,1.0
+1107,3430,V08,Parkinson's Disease,1.0
+1113,3431,V08,Parkinson's Disease,1.0
+1125,3433,V08,Parkinson's Disease,2.0
+1137,3435,V08,Parkinson's Disease,2.0
+1143,3436,V08,Parkinson's Disease,2.0
+1149,3439,V08,Parkinson's Disease,2.0
+1161,3442,V08,Parkinson's Disease,2.0
+1167,3443,V08,Parkinson's Disease,2.0
+1173,3444,V08,Parkinson's Disease,2.0
+1179,3445,V08,Parkinson's Disease,2.0
+1185,3446,V08,Parkinson's Disease,2.0
+1197,3448,V08,Parkinson's Disease,1.0
+1203,3451,V08,Parkinson's Disease,2.0
+1209,3454,V08,Parkinson's Disease,1.0
+1221,3459,V08,Parkinson's Disease,2.0
+1227,3461,V08,Parkinson's Disease,2.0
+1233,3462,V08,Parkinson's Disease,2.0
+1239,3467,V08,Parkinson's Disease,1.0
+1245,3469,V08,Parkinson's Disease,1.0
+1251,3470,V08,Parkinson's Disease,1.0
+1257,3471,V08,Parkinson's Disease,2.0
+1263,3472,V08,Parkinson's Disease,2.0
+1269,3473,V08,Parkinson's Disease,2.0
+1281,3475,V08,Parkinson's Disease,2.0
+1287,3476,V08,Parkinson's Disease,3.0
+1293,3482,V08,Parkinson's Disease,2.0
+1305,3501,V08,Parkinson's Disease,2.0
+1317,3504,V08,Parkinson's Disease,2.0
+1383,3530,V08,Parkinson's Disease,1.0
+1443,3556,V08,Parkinson's Disease,2.0
+1449,3557,V08,Parkinson's Disease,2.0
+1461,3559,V08,Parkinson's Disease,2.0
+1485,3567,V08,Parkinson's Disease,2.0
+1497,3575,V08,Parkinson's Disease,2.0
+1503,3577,V08,Parkinson's Disease,2.0
+1521,3586,V08,Parkinson's Disease,2.0
+1527,3587,V08,Parkinson's Disease,2.0
+1557,3593,V08,Parkinson's Disease,2.0
+1593,3607,V08,Parkinson's Disease,2.0
+1683,3631,V08,Parkinson's Disease,2.0
+1713,3650,V08,Parkinson's Disease,2.0
+1725,3653,V08,Parkinson's Disease,2.0
+1731,3654,V08,Parkinson's Disease,2.0
+1755,3661,V08,Parkinson's Disease,1.0
+1767,3664,V08,Parkinson's Disease,2.0
+1779,3666,V08,Parkinson's Disease,2.0
+1815,3705,V08,Parkinson's Disease,2.0
+1875,3758,V08,Parkinson's Disease,1.0
+2031,3808,V08,Parkinson's Disease,1.0
+2073,3824,V08,Parkinson's Disease,1.0
+2079,3825,V08,Parkinson's Disease,2.0
+2085,3826,V08,Parkinson's Disease,2.0
+2157,3856,V08,Parkinson's Disease,1.0
+2175,3866,V08,Parkinson's Disease,3.0
+2199,3870,V08,Parkinson's Disease,2.0
+2205,3900,V08,Parkinson's Disease,2.0
+2241,3910,V08,Parkinson's Disease,2.0
+2253,3914,V08,Parkinson's Disease,1.0
+2325,3970,V08,Parkinson's Disease,2.0
+2361,4005,V08,Parkinson's Disease,2.0
+2457,4030,V08,Parkinson's Disease,2.0
+2481,4037,V08,Parkinson's Disease,2.0
+2493,4051,V08,Parkinson's Disease,2.0
+2499,4052,V08,Parkinson's Disease,2.0
+2505,4054,V08,Parkinson's Disease,2.0
+2511,4055,V08,Parkinson's Disease,2.0
+2517,4056,V08,Parkinson's Disease,2.0
+2523,4057,V08,Parkinson's Disease,2.0
+2529,4058,V08,Parkinson's Disease,2.0
+2535,4059,V08,Parkinson's Disease,2.0
+2613,4077,V08,Parkinson's Disease,2.0
+2637,4082,V08,Parkinson's Disease,2.0
+2643,4083,V08,Parkinson's Disease,2.0
+2649,4091,V08,Parkinson's Disease,2.0
+2655,4092,V08,Parkinson's Disease,2.0
+2661,4093,V08,Parkinson's Disease,2.0
+2673,4096,V08,Parkinson's Disease,1.0
+2685,4098,V08,Parkinson's Disease,2.0
+2691,4099,V08,Parkinson's Disease,2.0
+2697,4101,V08,Parkinson's Disease,2.0
+2703,4102,V08,Parkinson's Disease,2.0
+2709,4103,V08,Parkinson's Disease,2.0
+2715,4106,V08,Parkinson's Disease,1.0
+2721,4107,V08,Parkinson's Disease,2.0
+2727,4108,V08,Parkinson's Disease,2.0
+2733,4109,V08,Parkinson's Disease,2.0
+2739,4110,V08,Parkinson's Disease,2.0
+2745,4111,V08,Parkinson's Disease,2.0
+2751,4112,V08,Parkinson's Disease,2.0
+2757,4113,V08,Parkinson's Disease,2.0
+2769,4115,V08,Parkinson's Disease,2.0
+2775,4117,V08,Parkinson's Disease,1.0
+2781,4121,V08,Parkinson's Disease,3.0
+2793,4123,V08,Parkinson's Disease,2.0
+2799,4124,V08,Parkinson's Disease,2.0
+2811,4126,V08,Parkinson's Disease,2.0
+3004,10874,V08,Prodromal,0.0
+3046,12224,V08,Prodromal,0.0
+3082,12499,V08,Prodromal,0.0
+3100,12593,V08,Prodromal,0.0
+3142,13039,V08,Prodromal,0.0
+3148,13424,V08,Prodromal,0.0
+3202,14281,V08,Prodromal,0.0
+3214,14331,V08,Prodromal,0.0
+3316,16580,V08,Prodromal,2.0
+3322,16644,V08,Prodromal,1.0
+3364,17608,V08,Prodromal,0.0
+3376,18026,V08,Prodromal,0.0
+3418,18491,V08,Prodromal,0.0
+3430,18567,V08,Prodromal,1.0
+3466,40360,V08,Prodromal,0.0
+3472,40366,V08,Parkinson's Disease,2.0
+3478,40451,V08,Prodromal,0.0
+3484,40520,V08,Prodromal,2.0
+3550,40553,V08,Parkinson's Disease,2.0
+3556,40555,V08,Parkinson's Disease,2.0
+3580,40568,V08,Prodromal,0.0
+3592,40578,V08,Parkinson's Disease,2.0
+3604,40586,V08,Parkinson's Disease,2.0
+3610,40587,V08,Prodromal,0.0
+3616,40590,V08,Prodromal,1.0
+3622,40591,V08,Prodromal,0.0
+3634,40593,V08,Prodromal,0.0
+3652,40596,V08,Prodromal,1.0
+3682,40602,V08,Prodromal,0.0
+3700,40606,V08,Prodromal,1.0
+3706,40607,V08,Parkinson's Disease,4.0
+3718,40609,V08,Prodromal,0.0
+3724,40610,V08,Prodromal,1.0
+3730,40611,V08,Prodromal,1.0
+3736,40613,V08,Prodromal,0.0
+3742,40614,V08,Prodromal,0.0
+3754,40617,V08,Prodromal,0.0
+3766,40619,V08,Prodromal,1.0
+3784,40690,V08,Parkinson's Disease,2.0
+3796,40692,V08,Parkinson's Disease,1.0
+3802,40693,V08,Parkinson's Disease,4.0
+3814,40702,V08,Parkinson's Disease,2.0
+3820,40703,V08,Parkinson's Disease,2.0
+3862,40726,V08,Prodromal,0.0
+3892,40737,V08,Prodromal,1.0
+3904,40744,V08,Parkinson's Disease,2.0
+3946,40758,V08,Prodromal,0.0
+3964,40761,V08,Prodromal,0.0
+4078,40816,V08,Parkinson's Disease,2.0
+4156,41283,V08,Prodromal,0.0
+4162,41284,V08,Prodromal,0.0
+4234,41296,V08,Prodromal,0.0
+4240,41297,V08,Prodromal,0.0
+4258,41307,V08,Prodromal,0.0
+4276,41343,V08,Prodromal,0.0
+4288,41364,V08,Prodromal,0.0
+4300,41380,V08,Parkinson's Disease,2.0
+4312,41382,V08,Parkinson's Disease,2.0
+4318,41384,V08,Parkinson's Disease,2.0
+4330,41400,V08,Parkinson's Disease,2.0
+4348,41410,V08,Parkinson's Disease,1.0
+4384,41437,V08,Parkinson's Disease,2.0
+4396,41471,V08,Prodromal,0.0
+4408,41486,V08,Parkinson's Disease,2.0
+4414,41488,V08,Parkinson's Disease,2.0
+4432,41519,V08,Parkinson's Disease,2.0
+4456,41526,V08,Prodromal,1.0
+4462,41529,V08,Prodromal,0.0
+4474,41562,V08,Prodromal,0.0
+4486,41578,V08,Parkinson's Disease,1.0
+4510,41767,V08,Parkinson's Disease,3.0
+4552,41985,V08,Parkinson's Disease,2.0
+4558,41989,V08,Parkinson's Disease,2.0
+4582,42000,V08,Prodromal,1.0
+4654,42072,V08,Prodromal,0.0
+4660,42079,V08,Parkinson's Disease,2.0
+4672,42123,V08,Prodromal,0.0
+4678,42126,V08,Prodromal,0.0
+4690,42133,V08,Prodromal,0.0
+4732,42171,V08,Parkinson's Disease,2.0
+4744,42240,V08,Prodromal,0.0
+4780,42306,V08,Prodromal,0.0
+4840,42407,V08,Parkinson's Disease,1.0
+4876,42422,V08,Prodromal,0.0
+4882,42426,V08,Prodromal,0.0
+4900,42443,V08,Prodromal,0.0
+4906,42444,V08,Prodromal,0.0
+4912,42445,V08,Prodromal,0.0
+4918,42446,V08,Prodromal,0.0
+4936,42450,V08,Prodromal,0.0
+5074,50009,V08,Prodromal,0.0
+5086,50028,V08,Parkinson's Disease,2.0
+5116,50110,V08,Prodromal,0.0
+5122,50143,V08,Prodromal,0.0
+5128,50157,V08,Parkinson's Disease,1.0
+5134,50172,V08,Prodromal,0.0
+5140,50175,V08,Parkinson's Disease,2.0
+5146,50184,V08,Prodromal,0.0
+5164,50219,V08,Prodromal,0.0
+5170,50222,V08,Prodromal,0.0
+5176,50225,V08,Prodromal,0.0
+5182,50275,V08,Prodromal,2.0
+5188,50319,V08,Parkinson's Disease,1.0
+5194,50328,V08,Prodromal,0.0
+5200,50379,V08,Prodromal,0.0
+5212,50455,V08,Prodromal,0.0
+5218,50462,V08,Prodromal,0.0
+5230,50509,V08,Parkinson's Disease,2.0
+5236,50557,V08,Prodromal,0.0
+5242,50572,V08,Prodromal,0.0
+5254,50670,V08,Prodromal,0.0
+5272,50860,V08,Parkinson's Disease,2.0
+5278,50901,V08,Parkinson's Disease,2.0
+5284,50961,V08,Prodromal,0.0
+5296,51186,V08,Parkinson's Disease,2.0
+5308,51247,V08,Prodromal,0.0
+5314,51252,V08,Parkinson's Disease,2.0
+5320,51302,V08,Prodromal,1.0
+5326,51311,V08,Prodromal,0.0
+5332,51330,V08,Prodromal,0.0
+5338,51392,V08,Prodromal,0.0
+5344,51440,V08,Parkinson's Disease,1.0
+5350,51441,V08,Prodromal,0.0
+5362,51518,V08,Parkinson's Disease,1.0
+5368,51540,V08,Prodromal,0.0
+5380,51551,V08,Parkinson's Disease,2.0
+5392,51625,V08,Parkinson's Disease,1.0
+5416,51689,V08,Prodromal,0.0
+5422,51714,V08,Prodromal,0.0
+5428,51731,V08,Parkinson's Disease,2.0
+5434,51746,V08,Prodromal,0.0
+5440,51755,V08,Prodromal,0.0
+5446,51782,V08,Prodromal,0.0
+5458,51844,V08,Parkinson's Disease,2.0
+5464,51867,V08,Prodromal,0.0
+5482,51971,V08,Parkinson's Disease,2.0
+5494,52006,V08,Prodromal,1.0
+5500,52062,V08,Parkinson's Disease,1.0
+5512,52146,V08,Parkinson's Disease,2.0
+5518,52200,V08,Prodromal,0.0
+5524,52215,V08,Prodromal,0.0
+5530,52258,V08,Prodromal,0.0
+5536,52274,V08,Prodromal,0.0
+5542,52275,V08,Prodromal,0.0
+5548,52276,V08,Prodromal,0.0
+5566,52355,V08,Prodromal,0.0
+5578,52400,V08,Prodromal,0.0
+5584,52414,V08,Prodromal,0.0
+5590,52432,V08,Prodromal,0.0
+5602,52517,V08,Prodromal,0.0
+5608,52518,V08,Prodromal,0.0
+5614,52523,V08,Prodromal,0.0
+5620,52524,V08,Prodromal,0.0
+5626,52530,V08,Parkinson's Disease,1.0
+5638,52563,V08,Prodromal,0.0
+5644,52587,V08,Prodromal,0.0
+5650,52604,V08,Prodromal,0.0
+5662,52678,V08,Parkinson's Disease,2.0
+5674,52752,V08,Prodromal,1.0
+5680,52783,V08,Prodromal,0.0
+5686,52787,V08,Prodromal,0.0
+5692,52828,V08,Prodromal,0.0
+5710,52872,V08,Prodromal,0.0
+5722,52888,V08,Prodromal,0.0
+5728,52927,V08,Prodromal,0.0
+5734,52932,V08,Prodromal,0.0
+5740,52948,V08,Prodromal,0.0
+5746,52982,V08,Prodromal,0.0
+5758,53033,V08,Prodromal,0.0
+5770,53054,V08,Prodromal,0.0
+5788,53258,V08,Prodromal,0.0
+5794,53308,V08,Prodromal,2.0
+5800,53310,V08,Prodromal,0.0
+5806,53339,V08,Parkinson's Disease,2.0
+5812,53340,V08,Prodromal,0.0
+5818,53423,V08,Prodromal,0.0
+5824,53518,V08,Prodromal,0.0
+5836,53595,V08,Parkinson's Disease,2.0
+5842,53600,V08,Parkinson's Disease,2.0
+5854,53866,V08,Prodromal,0.0
+5866,53988,V08,Parkinson's Disease,2.0
+5872,54048,V08,Prodromal,0.0
+5878,54110,V08,Prodromal,0.0
+5884,54144,V08,Parkinson's Disease,1.0
+5890,54156,V08,Prodromal,0.0
+5896,54161,V08,Parkinson's Disease,2.0
+5902,54166,V08,Prodromal,0.0
+5908,54196,V08,Prodromal,0.0
+5932,54262,V08,Prodromal,0.0
+5944,54266,V08,Prodromal,0.0
+5950,54309,V08,Prodromal,0.0
+5962,54373,V08,Prodromal,0.0
+5974,54446,V08,Prodromal,0.0
+5992,54908,V08,Prodromal,0.0
+5998,54915,V08,Prodromal,0.0
+6010,54991,V08,Prodromal,0.0
+6022,55094,V08,Prodromal,0.0
+6028,55098,V08,Prodromal,0.0
+6034,55124,V08,Parkinson's Disease,2.0
+6040,55151,V08,Prodromal,1.0
+6046,55251,V08,Parkinson's Disease,2.0
+6058,55349,V08,Prodromal,0.0
+6064,55380,V08,Prodromal,0.0
+6094,55560,V08,Prodromal,0.0
+6100,55577,V08,Prodromal,0.0
+6106,55615,V08,Parkinson's Disease,2.0
+6112,55653,V08,Prodromal,0.0
+6118,55822,V08,Prodromal,0.0
+6124,55842,V08,Prodromal,0.0
+6130,55875,V08,Parkinson's Disease,2.0
+6142,56048,V08,Prodromal,0.0
+6148,56126,V08,Prodromal,0.0
+6154,56136,V08,Prodromal,0.0
+6160,56169,V08,Prodromal,2.0
+6166,56175,V08,Prodromal,0.0
+6184,56435,V08,Parkinson's Disease,2.0
+6190,56457,V08,Prodromal,0.0
+6196,56491,V08,Prodromal,0.0
+6202,56492,V08,Prodromal,0.0
+6214,56571,V08,Prodromal,0.0
+6220,56582,V08,Prodromal,0.0
+6226,56593,V08,Prodromal,0.0
+6232,56680,V08,Prodromal,0.0
+6244,56744,V08,Parkinson's Disease,2.0
+6256,56779,V08,Prodromal,0.0
+6280,56886,V08,Prodromal,0.0
+6286,56954,V08,Prodromal,0.0
+6304,57127,V08,Parkinson's Disease,2.0
+6316,57170,V08,Prodromal,0.0
+6322,57234,V08,Prodromal,0.0
+6328,57277,V08,Prodromal,0.0
+6358,57447,V08,Prodromal,0.0
+6364,57484,V08,Prodromal,0.0
+6370,57500,V08,Prodromal,0.0
+6376,57605,V08,Prodromal,0.0
+6382,57670,V08,Prodromal,0.0
+6388,57714,V08,Prodromal,0.0
+6430,57946,V08,Prodromal,0.0
+6436,57961,V08,Prodromal,0.0
+6466,58070,V08,Prodromal,0.0
+6502,58164,V08,Prodromal,0.0
+6520,58224,V08,Prodromal,0.0
+6586,58653,V08,Prodromal,0.0
+6598,58680,V08,Prodromal,0.0
+6604,58694,V08,Prodromal,0.0
+6610,58716,V08,Prodromal,0.0
+6622,58767,V08,Prodromal,0.0
+6628,58783,V08,Parkinson's Disease,2.0
+6634,58843,V08,Prodromal,0.0
+6646,58909,V08,Prodromal,0.0
+6652,58916,V08,Prodromal,1.0
+6664,59042,V08,Prodromal,0.0
+6670,59053,V08,Prodromal,0.0
+6694,59174,V08,Prodromal,0.0
+6706,59253,V08,Prodromal,0.0
+6736,59409,V08,Prodromal,0.0
+6742,59466,V08,Prodromal,0.0
+6784,59558,V08,Prodromal,0.0
+6796,59614,V08,Prodromal,0.0
+6820,59797,V08,Prodromal,0.0
+6826,59866,V08,Prodromal,0.0
+6832,59869,V08,Prodromal,0.0
+6838,60002,V08,Prodromal,0.0
+6844,60003,V08,Prodromal,0.0
+6874,60013,V08,Prodromal,2.0
+6910,60023,V08,Prodromal,0.0
+6916,60024,V08,Prodromal,1.0
+6934,60035,V08,Prodromal,2.0
+6940,60036,V08,Prodromal,0.0
+6964,60044,V08,Prodromal,0.0
+6970,60045,V08,Prodromal,0.0
+6988,60048,V08,Prodromal,0.0
+7012,60056,V08,Prodromal,0.0
+7018,60057,V08,Prodromal,0.0
+7036,60060,V08,Prodromal,0.0
+7078,60073,V08,Prodromal,0.0
+7084,60074,V08,Prodromal,0.0
+7090,60075,V08,Prodromal,0.0
+7096,60091,V08,Prodromal,0.0
+7102,60095,V08,Prodromal,0.0
+7132,60101,V08,Prodromal,0.0
+7174,60109,V08,Prodromal,0.0
+7204,60118,V08,Prodromal,0.0
+7222,60122,V08,Prodromal,0.0
+7276,60148,V08,Prodromal,0.0
+7282,60170,V08,Prodromal,0.0
+7288,60171,V08,Prodromal,0.0
+7318,65003,V08,Prodromal,0.0
+7348,70087,V08,Prodromal,0.0
+7354,70106,V08,Prodromal,0.0
+7360,70179,V08,Prodromal,0.0
+7378,70241,V08,Prodromal,0.0
+7390,70345,V08,Prodromal,0.0
+7414,70432,V08,Prodromal,0.0
+7432,70519,V08,Prodromal,1.0
+7444,70631,V08,Prodromal,0.0
+7456,70645,V08,Prodromal,0.0
+7462,70652,V08,Prodromal,0.0
+7468,70654,V08,Prodromal,0.0
+7480,70659,V08,Prodromal,0.0
+7504,70818,V08,Parkinson's Disease,2.0
+7510,70977,V08,Prodromal,0.0
+7516,70991,V08,Prodromal,0.0
+7534,71065,V08,Prodromal,0.0
+7552,71098,V08,Prodromal,0.0
+7558,71107,V08,Prodromal,0.0
+7570,71189,V08,Parkinson's Disease,2.0
+7594,71375,V08,Prodromal,0.0
+7600,71387,V08,Prodromal,0.0
+7618,71452,V08,Prodromal,0.0
+7630,71521,V08,Prodromal,0.0
+7636,71658,V08,Prodromal,0.0
+7642,71679,V08,Prodromal,0.0
+7660,71809,V08,Parkinson's Disease,2.0
+7684,71978,V08,Parkinson's Disease,2.0
+7690,72082,V08,Prodromal,0.0
+7696,72083,V08,Prodromal,0.0
+7702,72110,V08,Prodromal,0.0
+7720,72283,V08,Prodromal,0.0
+7732,72419,V08,Prodromal,1.0
+7744,72651,V08,Prodromal,0.0
+7750,72760,V08,Prodromal,0.0
+7756,72784,V08,Parkinson's Disease,2.0
+7774,72877,V08,Prodromal,0.0
+7780,73082,V08,Prodromal,0.0
+7786,73114,V08,Prodromal,0.0
+7798,73134,V08,Prodromal,0.0
+7810,73397,V08,Prodromal,0.0
+7846,73688,V08,Prodromal,0.0
+7858,73787,V08,Prodromal,0.0
+7882,74000,V08,Prodromal,0.0
+7888,74004,V08,Prodromal,1.0
+7900,74067,V08,Parkinson's Disease,2.0
+7918,74251,V08,Prodromal,0.0
+7954,74393,V08,Prodromal,0.0
+7966,74544,V08,Prodromal,0.0
+7978,74739,V08,Prodromal,0.0
+7984,74743,V08,Prodromal,0.0
+7990,74763,V08,Prodromal,0.0
+7996,74779,V08,Prodromal,0.0
+8008,74940,V08,Prodromal,0.0
+8014,74977,V08,Prodromal,1.0
+8020,75134,V08,Prodromal,0.0
+8038,75409,V08,Parkinson's Disease,2.0
+8062,75419,V08,Prodromal,0.0
+8080,75422,V08,Prodromal,0.0
+8092,75426,V08,Prodromal,0.0
+8098,75433,V08,Prodromal,0.0
+8116,75441,V08,Prodromal,0.0
+8146,75479,V08,Prodromal,0.0
+8152,75480,V08,Parkinson's Disease,2.0
+8158,75484,V08,Parkinson's Disease,2.0
+8170,75492,V08,Prodromal,0.0
+8188,75505,V08,Parkinson's Disease,2.0
+8200,75512,V08,Prodromal,0.0
+8206,75520,V08,Prodromal,0.0
+8212,75524,V08,Parkinson's Disease,2.0
+8230,75547,V08,Prodromal,0.0
+8242,75562,V08,Parkinson's Disease,1.0
+8248,75564,V08,Prodromal,2.0
+8260,75570,V08,Prodromal,0.0
+8290,85236,V08,Prodromal,0.0
+8296,85242,V08,Prodromal,1.0
+8338,90456,V08,Prodromal,1.0
+8386,91097,V08,Prodromal,0.0
+8446,100001,V08,Parkinson's Disease,2.0
+8464,100006,V08,Parkinson's Disease,2.0
+8470,100007,V08,Parkinson's Disease,2.0
+8476,100012,V08,Parkinson's Disease,2.0
+8482,100017,V08,Parkinson's Disease,2.0
+8488,100018,V08,Parkinson's Disease,3.0
+8530,100122,V08,Prodromal,0.0
+8542,100232,V08,Prodromal,0.0
+8548,100250,V08,Prodromal,0.0
+8554,100267,V08,Parkinson's Disease,2.0
+8560,100268,V08,Parkinson's Disease,2.0
+8578,100445,V08,Prodromal,0.0
+8584,100511,V08,Prodromal,1.0
+8632,100677,V08,Prodromal,0.0
+8638,100712,V08,Prodromal,0.0
+8662,100842,V08,Parkinson's Disease,2.0
+8674,100878,V08,Parkinson's Disease,2.0
+8680,100889,V08,Parkinson's Disease,2.0
+8686,100891,V08,Parkinson's Disease,2.0
+8704,100911,V08,Parkinson's Disease,2.0
+8710,100952,V08,Parkinson's Disease,2.0
+8716,100960,V08,Prodromal,2.0
+8722,100971,V08,Prodromal,0.0
+8740,100987,V08,Prodromal,0.0
+8758,101018,V08,Parkinson's Disease,2.0
+8764,101021,V08,Prodromal,2.0
+8776,101026,V08,Parkinson's Disease,2.0
+8788,101038,V08,Parkinson's Disease,2.0
+8794,101047,V08,Parkinson's Disease,2.0
+8824,101092,V08,Parkinson's Disease,2.0
+8848,101124,V08,Parkinson's Disease,2.0
+8872,101146,V08,Parkinson's Disease,2.0
+8884,101158,V08,Prodromal,0.0
+8890,101174,V08,Parkinson's Disease,1.0
+8896,101175,V08,Parkinson's Disease,3.0
+8908,101178,V08,Prodromal,1.0
+8926,101187,V08,Parkinson's Disease,1.0
+8950,101230,V08,Prodromal,0.0
+8998,101295,V08,Parkinson's Disease,2.0
+9058,101372,V08,Prodromal,0.0
+9064,101384,V08,Parkinson's Disease,2.0
+9070,101463,V08,Prodromal,0.0
+9076,101476,V08,Parkinson's Disease,2.0
+9082,101477,V08,Parkinson's Disease,2.0
+9094,101479,V08,Parkinson's Disease,2.0
+9112,101492,V08,Parkinson's Disease,2.0
+9118,101513,V08,Parkinson's Disease,2.0
+9130,101516,V08,Parkinson's Disease,2.0
+9154,101557,V08,Parkinson's Disease,2.0
+9244,101738,V08,Prodromal,0.0
+9250,101742,V08,Parkinson's Disease,2.0
+9262,101744,V08,Parkinson's Disease,2.0
+9268,101748,V08,Parkinson's Disease,2.0
+9304,101756,V08,Parkinson's Disease,2.0
+9310,101761,V08,Prodromal,2.0
+9322,101799,V08,Parkinson's Disease,1.0
+9328,101805,V08,Prodromal,0.0
+9340,101841,V08,Parkinson's Disease,2.0
+9358,101884,V08,Prodromal,0.0
+9364,101910,V08,Prodromal,0.0
+9370,101956,V08,Prodromal,2.0
+9412,102054,V08,Parkinson's Disease,2.0
+9418,102068,V08,Parkinson's Disease,1.0
+9430,102078,V08,Parkinson's Disease,2.0
+9442,102102,V08,Prodromal,0.0
+9454,102119,V08,Prodromal,0.0
+9502,102245,V08,Prodromal,1.0
+9526,102293,V08,Parkinson's Disease,2.0
+9544,102305,V08,Parkinson's Disease,2.0
+9580,102325,V08,Prodromal,1.0
+9592,102333,V08,Prodromal,0.0
+9604,102364,V08,Prodromal,0.0
+9664,102420,V08,Parkinson's Disease,2.0
+9682,102475,V08,Parkinson's Disease,2.0
+9688,102479,V08,Parkinson's Disease,2.0
+9718,102503,V08,Prodromal,0.0
+9778,103296,V08,Prodromal,2.0
+9802,103699,V08,Prodromal,0.0
+9820,103813,V08,Parkinson's Disease,2.0
+9826,103842,V08,Prodromal,0.0
+9832,103857,V08,Prodromal,0.0
+9898,105711,V08,Parkinson's Disease,2.0
+9910,105824,V08,Prodromal,0.0
+9922,106111,V08,Prodromal,0.0
+9976,107003,V08,Prodromal,0.0
+10006,107590,V08,Prodromal,0.0
+10036,108145,V08,Prodromal,0.0
+10048,108365,V08,Prodromal,1.0
+10072,108754,V08,Prodromal,0.0
+10084,108838,V08,Prodromal,0.0
+10126,109619,V08,Parkinson's Disease,2.0
+10138,109663,V08,Prodromal,2.0
+10162,109921,V08,Prodromal,0.0
+10174,110148,V08,Prodromal,0.0
+10180,110192,V08,Parkinson's Disease,2.0
+10198,110217,V08,Prodromal,0.0
+10228,110360,V08,Parkinson's Disease,2.0
+10270,110955,V08,Prodromal,2.0
+10300,111278,V08,Parkinson's Disease,2.0
+10324,111545,V08,Parkinson's Disease,1.0
+10354,112215,V08,Prodromal,2.0
+10372,112557,V08,Prodromal,0.0
+10444,112951,V08,Prodromal,0.0
+10492,113353,V08,Prodromal,2.0
+10510,113446,V08,Parkinson's Disease,2.0
+10516,113460,V08,Parkinson's Disease,2.0
+10570,114195,V08,Parkinson's Disease,2.0
+10600,114272,V08,Parkinson's Disease,2.0
+10612,114526,V08,Parkinson's Disease,2.0
+10618,114534,V08,Parkinson's Disease,2.0
+10624,114551,V08,Prodromal,2.0
+10636,114613,V08,Prodromal,0.0
+10642,114615,V08,Parkinson's Disease,2.0
+10684,115403,V08,Prodromal,0.0
+10726,115680,V08,Parkinson's Disease,2.0
+10732,115687,V08,Parkinson's Disease,2.0
+10762,115820,V08,Parkinson's Disease,2.0
+10792,116008,V08,Parkinson's Disease,2.0
+10816,116216,V08,Parkinson's Disease,2.0
+10828,116259,V08,Prodromal,0.0
+10882,116733,V08,Parkinson's Disease,2.0
+10894,116869,V08,Prodromal,0.0
+10942,117743,V08,Prodromal,0.0
+11008,119522,V08,Parkinson's Disease,2.0
+11068,120549,V08,Prodromal,0.0
+11080,120622,V08,Prodromal,0.0
+11128,121543,V08,Prodromal,2.0
+11134,121554,V08,Prodromal,0.0
+11146,121619,V08,Parkinson's Disease,2.0
+11152,121624,V08,Parkinson's Disease,2.0
+11170,121771,V08,Prodromal,0.0
+11176,121830,V08,Parkinson's Disease,2.0
+11182,121854,V08,Parkinson's Disease,2.0
+11290,123594,V08,Parkinson's Disease,2.0
+11308,124659,V08,Prodromal,0.0
+11326,124793,V08,Parkinson's Disease,1.0
+11374,126102,V08,Prodromal,2.0
+11422,127075,V08,Parkinson's Disease,2.0
+11464,128196,V08,Parkinson's Disease,2.0
+11470,128230,V08,Prodromal,0.0
+11488,128325,V08,Prodromal,0.0
+11542,129339,V08,Prodromal,0.0
+11554,129424,V08,Prodromal,0.0
+11608,130013,V08,Parkinson's Disease,1.0
+11614,130156,V08,Parkinson's Disease,2.0
+11668,130784,V08,Prodromal,0.0
+11692,131065,V08,Prodromal,0.0
+11698,131120,V08,Parkinson's Disease,2.0
+11722,131412,V08,Prodromal,0.0
+11728,131602,V08,Parkinson's Disease,2.0
+11740,131619,V08,Prodromal,0.0
+11770,132338,V08,Parkinson's Disease,2.0
+11788,132480,V08,Prodromal,0.0
+11800,132728,V08,Prodromal,0.0
+11818,133294,V08,Prodromal,0.0
+11836,133441,V08,Prodromal,0.0
+11848,133486,V08,Parkinson's Disease,2.0
+11866,133507,V08,Parkinson's Disease,2.0
+11908,134403,V08,Prodromal,2.0
+11914,134442,V08,Parkinson's Disease,2.0
+11920,134456,V08,Parkinson's Disease,2.0
+11938,134566,V08,Prodromal,2.0
+11956,134605,V08,Parkinson's Disease,2.0
+11962,134629,V08,Prodromal,2.0
+11980,134821,V08,Prodromal,0.0
+11986,134844,V08,Prodromal,0.0
+12028,135190,V08,Prodromal,2.0
+12154,136696,V08,Prodromal,0.0
+12160,136702,V08,Prodromal,0.0
+12190,137259,V08,Prodromal,1.0
+12208,137426,V08,Parkinson's Disease,2.0
+12214,137450,V08,Parkinson's Disease,2.0
+12250,137805,V08,Prodromal,0.0
+12268,137886,V08,Parkinson's Disease,2.0
+12310,138739,V08,Prodromal,0.0
+12334,138827,V08,Prodromal,0.0
+12340,139065,V08,Prodromal,0.0
+12364,139370,V08,Prodromal,1.0
+12376,139471,V08,Prodromal,0.0
+12388,139610,V08,Prodromal,2.0
+12394,139633,V08,Prodromal,2.0
+12406,139859,V08,Parkinson's Disease,2.0
+12412,139860,V08,Prodromal,0.0
+12424,139926,V08,Prodromal,0.0
+12436,139979,V08,Prodromal,0.0
+12460,140027,V08,Parkinson's Disease,1.0
+12496,140258,V08,Parkinson's Disease,2.0
+12502,140392,V08,Prodromal,0.0
+12520,140469,V08,Prodromal,0.0
+12526,140509,V08,Prodromal,1.0
+12538,140568,V08,Parkinson's Disease,2.0
+12550,140586,V08,Prodromal,2.0
+12556,140671,V08,Parkinson's Disease,2.0
+12586,140722,V08,Parkinson's Disease,2.0
+12610,140759,V08,Prodromal,2.0
+12622,140762,V08,Parkinson's Disease,2.0
+12634,140871,V08,Prodromal,0.0
+12658,141135,V08,Parkinson's Disease,2.0
+12664,141179,V08,Prodromal,0.0
+12676,141574,V08,Prodromal,0.0
+12688,141640,V08,Prodromal,0.0
+12724,141721,V08,Prodromal,0.0
+12748,141980,V08,Prodromal,0.0
+12784,142004,V08,Parkinson's Disease,2.0
+12790,142007,V08,Parkinson's Disease,2.0
+12850,142604,V08,Prodromal,0.0
+12880,142684,V08,Prodromal,0.0
+12892,142836,V08,Prodromal,0.0
+12928,142957,V08,Parkinson's Disease,2.0
+12964,143192,V08,Parkinson's Disease,2.0
+12988,143551,V08,Prodromal,0.0
+13006,143745,V08,Prodromal,0.0
+13018,143835,V08,Parkinson's Disease,2.0
+13030,144120,V08,Parkinson's Disease,2.0
+13048,144224,V08,Prodromal,0.0
+13072,144392,V08,Prodromal,0.0
+13102,145624,V08,Prodromal,0.0
+13132,145939,V08,Parkinson's Disease,2.0
+13138,145940,V08,Parkinson's Disease,2.0
+13144,145950,V08,Prodromal,0.0
+13168,146573,V08,Prodromal,1.0
+13180,146693,V08,Prodromal,0.0
+13192,146875,V08,Parkinson's Disease,3.0
+13198,146935,V08,Prodromal,0.0
+13216,147077,V08,Parkinson's Disease,2.0
+13240,147191,V08,Parkinson's Disease,2.0
+13252,147245,V08,Prodromal,0.0
+13258,147294,V08,Parkinson's Disease,2.0
+13264,147341,V08,Parkinson's Disease,2.0
+13270,147368,V08,Prodromal,2.0
+13288,147401,V08,Parkinson's Disease,2.0
+13312,147524,V08,Prodromal,2.0
+13336,148093,V08,Parkinson's Disease,2.0
+13342,148116,V08,Prodromal,0.0
+13366,148699,V08,Parkinson's Disease,2.0
+13372,148719,V08,Prodromal,0.0
+13378,148945,V08,Parkinson's Disease,2.0
+13390,149116,V08,Parkinson's Disease,1.0
+13396,149125,V08,Prodromal,0.0
+13414,149389,V08,Prodromal,1.0
+13420,149511,V08,Parkinson's Disease,2.0
+13426,149516,V08,Parkinson's Disease,2.0
+13438,149564,V08,Prodromal,0.0
+13486,149937,V08,Parkinson's Disease,2.0
+13516,150208,V08,Prodromal,0.0
+13522,150248,V08,Prodromal,0.0
+13534,150414,V08,Parkinson's Disease,2.0
+13540,150505,V08,Parkinson's Disease,2.0
+13546,150534,V08,Prodromal,0.0
+13558,150587,V08,Prodromal,0.0
+13582,151028,V08,Prodromal,1.0
+13588,151050,V08,Parkinson's Disease,2.0
+13594,151111,V08,Parkinson's Disease,3.0
+13612,151354,V08,Prodromal,2.0
+13618,151365,V08,Prodromal,0.0
+13648,151669,V08,Parkinson's Disease,2.0
+13660,152015,V08,Prodromal,1.0
+13672,152239,V08,Prodromal,0.0
+13684,152384,V08,Prodromal,2.0
+13708,152582,V08,Parkinson's Disease,2.0
+13726,152647,V08,Prodromal,0.0
+13762,153089,V08,Parkinson's Disease,1.0
+13780,153175,V08,Prodromal,0.0
+13804,153194,V08,Prodromal,2.0
+13882,154197,V08,Prodromal,0.0
+13972,155264,V08,Prodromal,0.0
+13978,155498,V08,Prodromal,0.0
+13990,155641,V08,Prodromal,0.0
+14020,156194,V08,Prodromal,1.0
+14062,156665,V08,Parkinson's Disease,2.0
+14074,156734,V08,Parkinson's Disease,3.0
+14122,157127,V08,Prodromal,1.0
+14152,157278,V08,Prodromal,0.0
+14170,157360,V08,Parkinson's Disease,1.0
+14176,157410,V08,Parkinson's Disease,1.0
+14188,157424,V08,Prodromal,0.0
+14224,157589,V08,Parkinson's Disease,3.0
+14236,157620,V08,Prodromal,0.0
+14248,157658,V08,Prodromal,0.0
+14404,158714,V08,Prodromal,0.0
+14422,158935,V08,Prodromal,0.0
+14434,159195,V08,Parkinson's Disease,1.0
+14536,160044,V08,Prodromal,0.0
+14542,160057,V08,Parkinson's Disease,2.0
+14566,160231,V08,Parkinson's Disease,2.0
+14626,161098,V08,Prodromal,0.0
+14638,161236,V08,Parkinson's Disease,2.0
+14674,161581,V08,Prodromal,0.0
+14686,161673,V08,Parkinson's Disease,2.0
+14698,161728,V08,Prodromal,0.0
+14716,162140,V08,Prodromal,0.0
+14728,162383,V08,Prodromal,0.0
+14836,162941,V08,Parkinson's Disease,1.0
+14848,162953,V08,Prodromal,0.0
+14854,162994,V08,Parkinson's Disease,2.0
+14908,163216,V08,Prodromal,1.0
+14956,163458,V08,Prodromal,0.0
+15010,164301,V08,Prodromal,0.0
+15040,164589,V08,Parkinson's Disease,2.0
+15064,164765,V08,Parkinson's Disease,2.0
+15070,164797,V08,Prodromal,0.0
+15160,165384,V08,Prodromal,0.0
+15166,165408,V08,Prodromal,0.0
+15208,165755,V08,Prodromal,2.0
+15232,165814,V08,Prodromal,2.0
+15298,166500,V08,Prodromal,0.0
+15334,166740,V08,Parkinson's Disease,1.0
+15364,166961,V08,Prodromal,0.0
+15388,167222,V08,Parkinson's Disease,2.0
+15478,167657,V08,Parkinson's Disease,2.0
+15484,167757,V08,Prodromal,0.0
+15496,167981,V08,Prodromal,0.0
+15556,168255,V08,Prodromal,0.0
+15694,169320,V08,Prodromal,2.0
+15772,170035,V08,Prodromal,2.0
+15802,170179,V08,Parkinson's Disease,2.0
+15820,170193,V08,Prodromal,2.0
+15856,170448,V08,Prodromal,0.0
+15880,170472,V08,Parkinson's Disease,2.0
+15898,170519,V08,Parkinson's Disease,2.0
+15916,170727,V08,Parkinson's Disease,2.0
+15928,170955,V08,Prodromal,0.0
+15946,171030,V08,Prodromal,2.0
+15952,171075,V08,Prodromal,0.0
+16108,172260,V08,Parkinson's Disease,2.0
+16120,172299,V08,Prodromal,1.0
+16144,172370,V08,Parkinson's Disease,2.0
+16156,172413,V08,Parkinson's Disease,1.0
+16186,172854,V08,Parkinson's Disease,2.0
+16282,173622,V08,Prodromal,3.0
+16312,173921,V08,Prodromal,0.0
+16348,174151,V08,Parkinson's Disease,2.0
+16366,174257,V08,Prodromal,0.0
+16390,174340,V08,Parkinson's Disease,2.0
+16396,174364,V08,Parkinson's Disease,3.0
+16408,174454,V08,Prodromal,0.0
+16420,174615,V08,Parkinson's Disease,2.0
+16444,174735,V08,Parkinson's Disease,2.0
+16474,174821,V08,Prodromal,0.0
+16492,174871,V08,Parkinson's Disease,2.0
+16510,174980,V08,Prodromal,0.0
+16672,175904,V08,Prodromal,0.0
+16840,176991,V08,Prodromal,0.0
+16906,177395,V08,Parkinson's Disease,2.0
+16936,177768,V08,Prodromal,0.0
+16966,177923,V08,Prodromal,0.0
+17014,178012,V08,Prodromal,0.0
+17068,178363,V08,Prodromal,0.0
+17086,178541,V08,Prodromal,0.0
+17206,179527,V08,Parkinson's Disease,2.0
+17326,179894,V08,Parkinson's Disease,2.0
+17512,181208,V08,Parkinson's Disease,2.0
+17638,181822,V08,Parkinson's Disease,2.0
+17644,181825,V08,Parkinson's Disease,1.0
+17662,181957,V08,Parkinson's Disease,2.0
+17674,181975,V08,Prodromal,0.0
+17710,182179,V08,Prodromal,2.0
+17722,182340,V08,Parkinson's Disease,1.0
+17770,182518,V08,Prodromal,0.0
+17836,182848,V08,Parkinson's Disease,2.0
+17908,182990,V08,Parkinson's Disease,2.0
+17968,183751,V08,Prodromal,1.0
+18352,186755,V08,Parkinson's Disease,3.0
+18448,187800,V08,Parkinson's Disease,2.0
+18490,188064,V08,Prodromal,0.0
+18562,188666,V08,Parkinson's Disease,2.0
+19618,201871,V08,Prodromal,2.0
+20770,212954,V08,Parkinson's Disease,2.0
+20860,213190,V08,Prodromal,0.0
+20926,213954,V08,Prodromal,0.0
