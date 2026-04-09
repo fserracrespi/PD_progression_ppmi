@@ -1,0 +1,3032 @@
+[
+    {
+        "domain": "examen_motor",
+        "model": "decision_tree",
+        "fold": 0,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 30,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 10,
+            "model__min_samples_split": 9
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "decision_tree",
+        "fold": 1,
+        "best_params": {
+            "model__criterion": "entropy",
+            "model__max_depth": 29,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 16
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "decision_tree",
+        "fold": 2,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 22,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 7,
+            "model__min_samples_split": 27
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "decision_tree",
+        "fold": 3,
+        "best_params": {
+            "model__criterion": "log_loss",
+            "model__max_depth": 20,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 14,
+            "model__min_samples_split": 30
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "decision_tree",
+        "fold": 4,
+        "best_params": {
+            "model__criterion": "entropy",
+            "model__max_depth": 16,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 11
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "decision_tree",
+        "fold": 5,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 30,
+            "model__max_features": null,
+            "model__min_samples_leaf": 2,
+            "model__min_samples_split": 30
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "decision_tree",
+        "fold": 6,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 23,
+            "model__max_features": null,
+            "model__min_samples_leaf": 12,
+            "model__min_samples_split": 30
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "decision_tree",
+        "fold": 7,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 30,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 5,
+            "model__min_samples_split": 24
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "decision_tree",
+        "fold": 8,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 22,
+            "model__max_features": null,
+            "model__min_samples_leaf": 2,
+            "model__min_samples_split": 26
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "decision_tree",
+        "fold": 9,
+        "best_params": {
+            "model__criterion": "log_loss",
+            "model__max_depth": 13,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 7
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "random_forest",
+        "fold": 0,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "entropy",
+            "model__max_depth": 7,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 14,
+            "model__min_samples_split": 17,
+            "model__n_estimators": 597
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "random_forest",
+        "fold": 1,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "log_loss",
+            "model__max_depth": 30,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 2,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "random_forest",
+        "fold": 2,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "gini",
+            "model__max_depth": 5,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 27,
+            "model__n_estimators": 118
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "random_forest",
+        "fold": 3,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "gini",
+            "model__max_depth": 4,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 2,
+            "model__min_samples_split": 3,
+            "model__n_estimators": 506
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "random_forest",
+        "fold": 4,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "log_loss",
+            "model__max_depth": 5,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 7,
+            "model__n_estimators": 203
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "random_forest",
+        "fold": 5,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "gini",
+            "model__max_depth": 10,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 30,
+            "model__n_estimators": 600
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "random_forest",
+        "fold": 6,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "log_loss",
+            "model__max_depth": 5,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 23,
+            "model__n_estimators": 429
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "random_forest",
+        "fold": 7,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "gini",
+            "model__max_depth": 30,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 30,
+            "model__n_estimators": 600
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "random_forest",
+        "fold": 8,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "log_loss",
+            "model__max_depth": 3,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 2,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "random_forest",
+        "fold": 9,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "gini",
+            "model__max_depth": 6,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 8,
+            "model__min_samples_split": 30,
+            "model__n_estimators": 172
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "extra_trees",
+        "fold": 0,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "gini",
+            "model__max_depth": 21,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 10,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "extra_trees",
+        "fold": 1,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "log_loss",
+            "model__max_depth": 3,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 6,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "extra_trees",
+        "fold": 2,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "log_loss",
+            "model__max_depth": 3,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 14,
+            "model__min_samples_split": 10,
+            "model__n_estimators": 177
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "extra_trees",
+        "fold": 3,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "entropy",
+            "model__max_depth": 3,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 30,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "extra_trees",
+        "fold": 4,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "gini",
+            "model__max_depth": 6,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 14,
+            "model__min_samples_split": 28,
+            "model__n_estimators": 101
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "extra_trees",
+        "fold": 5,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "entropy",
+            "model__max_depth": 7,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 2,
+            "model__min_samples_split": 7,
+            "model__n_estimators": 359
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "extra_trees",
+        "fold": 6,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "entropy",
+            "model__max_depth": 3,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 8,
+            "model__min_samples_split": 16,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "extra_trees",
+        "fold": 7,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "gini",
+            "model__max_depth": 26,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 2,
+            "model__n_estimators": 120
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "extra_trees",
+        "fold": 8,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "entropy",
+            "model__max_depth": 30,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 30,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "extra_trees",
+        "fold": 9,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "gini",
+            "model__max_depth": 8,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 2,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "xgboost",
+        "fold": 0,
+        "best_params": {
+            "model__colsample_bytree": 0.9823378720999991,
+            "model__gamma": 1e-08,
+            "model__learning_rate": 0.02897668780281682,
+            "model__max_depth": 7,
+            "model__min_child_weight": 5,
+            "model__n_estimators": 585,
+            "model__reg_alpha": 1e-08,
+            "model__reg_lambda": 0.002739290233434704,
+            "model__subsample": 0.7436745964858232
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "xgboost",
+        "fold": 1,
+        "best_params": {
+            "model__colsample_bytree": 0.5,
+            "model__gamma": 0.10265641462731619,
+            "model__learning_rate": 0.0050502572480130865,
+            "model__max_depth": 5,
+            "model__min_child_weight": 1,
+            "model__n_estimators": 238,
+            "model__reg_alpha": 6.866455064377591e-08,
+            "model__reg_lambda": 0.9213842362096917,
+            "model__subsample": 0.5589989218360054
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "xgboost",
+        "fold": 2,
+        "best_params": {
+            "model__colsample_bytree": 0.7184336003111349,
+            "model__gamma": 2.806416411801198e-06,
+            "model__learning_rate": 0.043392300242860775,
+            "model__max_depth": 4,
+            "model__min_child_weight": 2,
+            "model__n_estimators": 167,
+            "model__reg_alpha": 0.02983064370056904,
+            "model__reg_lambda": 7.25053488103171e-05,
+            "model__subsample": 0.830415006103874
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "xgboost",
+        "fold": 3,
+        "best_params": {
+            "model__colsample_bytree": 0.7800902406489217,
+            "model__gamma": 2.5625888193331768e-08,
+            "model__learning_rate": 0.0019000535499459547,
+            "model__max_depth": 7,
+            "model__min_child_weight": 1,
+            "model__n_estimators": 422,
+            "model__reg_alpha": 6.383932757713726e-08,
+            "model__reg_lambda": 3.9396915965189005e-05,
+            "model__subsample": 0.6195493322546196
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "xgboost",
+        "fold": 4,
+        "best_params": {
+            "model__colsample_bytree": 0.5587017337988074,
+            "model__gamma": 5.5861326444228446e-05,
+            "model__learning_rate": 0.02157594840833106,
+            "model__max_depth": 3,
+            "model__min_child_weight": 8,
+            "model__n_estimators": 221,
+            "model__reg_alpha": 0.042775592438567635,
+            "model__reg_lambda": 1e-06,
+            "model__subsample": 0.8084464521697531
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "xgboost",
+        "fold": 5,
+        "best_params": {
+            "model__colsample_bytree": 0.814998003568545,
+            "model__gamma": 0.17605158625504452,
+            "model__learning_rate": 0.008504354907600709,
+            "model__max_depth": 3,
+            "model__min_child_weight": 4,
+            "model__n_estimators": 359,
+            "model__reg_alpha": 0.13420651880935563,
+            "model__reg_lambda": 1.235970420638162e-06,
+            "model__subsample": 0.8779649201172748
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "xgboost",
+        "fold": 6,
+        "best_params": {
+            "model__colsample_bytree": 0.9638973687257792,
+            "model__gamma": 0.002443364773227845,
+            "model__learning_rate": 0.028426334863386908,
+            "model__max_depth": 11,
+            "model__min_child_weight": 1,
+            "model__n_estimators": 559,
+            "model__reg_alpha": 5.676493450743999,
+            "model__reg_lambda": 1.0078278416946134e-06,
+            "model__subsample": 0.8798824107054994
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "xgboost",
+        "fold": 7,
+        "best_params": {
+            "model__colsample_bytree": 0.6784572992382427,
+            "model__gamma": 0.34768850376140353,
+            "model__learning_rate": 0.05803591063724427,
+            "model__max_depth": 12,
+            "model__min_child_weight": 1,
+            "model__n_estimators": 162,
+            "model__reg_alpha": 6.870056523751799e-08,
+            "model__reg_lambda": 5.411001149837394,
+            "model__subsample": 0.5028802113825724
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "xgboost",
+        "fold": 8,
+        "best_params": {
+            "model__colsample_bytree": 0.5854499703054032,
+            "model__gamma": 8.549911906147859e-05,
+            "model__learning_rate": 0.1633936193836746,
+            "model__max_depth": 10,
+            "model__min_child_weight": 3,
+            "model__n_estimators": 511,
+            "model__reg_alpha": 8.893938024859008,
+            "model__reg_lambda": 1.1711465146987584e-06,
+            "model__subsample": 0.7773492799308155
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "xgboost",
+        "fold": 9,
+        "best_params": {
+            "model__colsample_bytree": 0.8395550527651835,
+            "model__gamma": 5.4932525043472e-05,
+            "model__learning_rate": 0.026568045635118432,
+            "model__max_depth": 5,
+            "model__min_child_weight": 7,
+            "model__n_estimators": 558,
+            "model__reg_alpha": 1.0830626115926748e-07,
+            "model__reg_lambda": 0.31200027825985166,
+            "model__subsample": 0.7696390070895407
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "adaboost",
+        "fold": 0,
+        "best_params": {
+            "model__learning_rate": 0.17139240119638444,
+            "model__n_estimators": 265
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "adaboost",
+        "fold": 1,
+        "best_params": {
+            "model__learning_rate": 0.10945533284185786,
+            "model__n_estimators": 400
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "adaboost",
+        "fold": 2,
+        "best_params": {
+            "model__learning_rate": 0.3276307205509632,
+            "model__n_estimators": 222
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "adaboost",
+        "fold": 3,
+        "best_params": {
+            "model__learning_rate": 0.4308721035663801,
+            "model__n_estimators": 171
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "adaboost",
+        "fold": 4,
+        "best_params": {
+            "model__learning_rate": 0.44307244486196395,
+            "model__n_estimators": 226
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "adaboost",
+        "fold": 5,
+        "best_params": {
+            "model__learning_rate": 0.18747839407539685,
+            "model__n_estimators": 400
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "adaboost",
+        "fold": 6,
+        "best_params": {
+            "model__learning_rate": 0.06538372410733755,
+            "model__n_estimators": 400
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "adaboost",
+        "fold": 7,
+        "best_params": {
+            "model__learning_rate": 0.38421441000904905,
+            "model__n_estimators": 400
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "adaboost",
+        "fold": 8,
+        "best_params": {
+            "model__learning_rate": 0.234411937614985,
+            "model__n_estimators": 400
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "adaboost",
+        "fold": 9,
+        "best_params": {
+            "model__learning_rate": 0.303847912744116,
+            "model__n_estimators": 400
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "svm",
+        "fold": 0,
+        "best_params": {
+            "model__C": 117.88909342620641,
+            "model__gamma": 6.512820794710214e-05
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "svm",
+        "fold": 1,
+        "best_params": {
+            "model__C": 1.5204638932877992,
+            "model__gamma": 4.825414360098001e-05
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "svm",
+        "fold": 2,
+        "best_params": {
+            "model__C": 0.4180259126651679,
+            "model__gamma": 0.0004286485980199881
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "svm",
+        "fold": 3,
+        "best_params": {
+            "model__C": 1000.0,
+            "model__gamma": 1e-05
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "svm",
+        "fold": 4,
+        "best_params": {
+            "model__C": 1000.0,
+            "model__gamma": 1e-05
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "svm",
+        "fold": 5,
+        "best_params": {
+            "model__C": 20.04382672423897,
+            "model__gamma": 2.8274338750684188e-05
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "svm",
+        "fold": 6,
+        "best_params": {
+            "model__C": 5.79069906851529,
+            "model__gamma": 3.833306939388071e-05
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "svm",
+        "fold": 7,
+        "best_params": {
+            "model__C": 467.9399471615719,
+            "model__gamma": 1e-05
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "svm",
+        "fold": 8,
+        "best_params": {
+            "model__C": 11.588478751337831,
+            "model__gamma": 1.2111257873560211e-05
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "svm",
+        "fold": 9,
+        "best_params": {
+            "model__C": 1000.0,
+            "model__gamma": 1e-05
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "logistic_regression",
+        "fold": 0,
+        "best_params": {
+            "model__C": 0.47153024383482456,
+            "model__solver": "newton-cg"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "logistic_regression",
+        "fold": 1,
+        "best_params": {
+            "model__C": 0.15204638932877992,
+            "model__solver": "lbfgs"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "logistic_regression",
+        "fold": 2,
+        "best_params": {
+            "model__C": 0.49131749549177817,
+            "model__solver": "lbfgs"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "logistic_regression",
+        "fold": 3,
+        "best_params": {
+            "model__C": 0.6476656010570592,
+            "model__solver": "lbfgs"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "logistic_regression",
+        "fold": 4,
+        "best_params": {
+            "model__C": 0.14394715651621623,
+            "model__solver": "saga"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "logistic_regression",
+        "fold": 5,
+        "best_params": {
+            "model__C": 0.2234116583187115,
+            "model__solver": "saga"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "logistic_regression",
+        "fold": 6,
+        "best_params": {
+            "model__C": 0.22993980758302762,
+            "model__solver": "newton-cg"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "logistic_regression",
+        "fold": 7,
+        "best_params": {
+            "model__C": 0.6204837469530686,
+            "model__solver": "newton-cg"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "logistic_regression",
+        "fold": 8,
+        "best_params": {
+            "model__C": 0.2392318836914479,
+            "model__solver": "newton-cg"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "logistic_regression",
+        "fold": 9,
+        "best_params": {
+            "model__C": 0.3842596945023762,
+            "model__solver": "lbfgs"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "knn",
+        "fold": 0,
+        "best_params": {
+            "model__n_neighbors": 51,
+            "model__p": 2,
+            "model__weights": "uniform"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "knn",
+        "fold": 1,
+        "best_params": {
+            "model__n_neighbors": 51,
+            "model__p": 2,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "knn",
+        "fold": 2,
+        "best_params": {
+            "model__n_neighbors": 47,
+            "model__p": 2,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "knn",
+        "fold": 3,
+        "best_params": {
+            "model__n_neighbors": 34,
+            "model__p": 2,
+            "model__weights": "uniform"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "knn",
+        "fold": 4,
+        "best_params": {
+            "model__n_neighbors": 46,
+            "model__p": 2,
+            "model__weights": "uniform"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "knn",
+        "fold": 5,
+        "best_params": {
+            "model__n_neighbors": 51,
+            "model__p": 2,
+            "model__weights": "uniform"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "knn",
+        "fold": 6,
+        "best_params": {
+            "model__n_neighbors": 44,
+            "model__p": 2,
+            "model__weights": "uniform"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "knn",
+        "fold": 7,
+        "best_params": {
+            "model__n_neighbors": 42,
+            "model__p": 2,
+            "model__weights": "uniform"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "knn",
+        "fold": 8,
+        "best_params": {
+            "model__n_neighbors": 17,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "knn",
+        "fold": 9,
+        "best_params": {
+            "model__n_neighbors": 50,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "gaussian_nb",
+        "fold": 0,
+        "best_params": {
+            "model__var_smoothing": 1.3393101007869412e-09
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "gaussian_nb",
+        "fold": 1,
+        "best_params": {
+            "model__var_smoothing": 8.263346064147675e-11
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "gaussian_nb",
+        "fold": 2,
+        "best_params": {
+            "model__var_smoothing": 1.8451048706206475e-11
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "gaussian_nb",
+        "fold": 3,
+        "best_params": {
+            "model__var_smoothing": 1.002484354606211e-12
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "gaussian_nb",
+        "fold": 4,
+        "best_params": {
+            "model__var_smoothing": 1.6741669342484053e-08
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "gaussian_nb",
+        "fold": 5,
+        "best_params": {
+            "model__var_smoothing": 2.004382672423897e-08
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "gaussian_nb",
+        "fold": 6,
+        "best_params": {
+            "model__var_smoothing": 5.79069906851529e-09
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "gaussian_nb",
+        "fold": 7,
+        "best_params": {
+            "model__var_smoothing": 4.026216071773883e-12
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "gaussian_nb",
+        "fold": 8,
+        "best_params": {
+            "model__var_smoothing": 3.0186842650981653e-12
+        }
+    },
+    {
+        "domain": "examen_motor",
+        "model": "gaussian_nb",
+        "fold": 9,
+        "best_params": {
+            "model__var_smoothing": 6.042142185140189e-07
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "decision_tree",
+        "fold": 0,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 26,
+            "model__max_features": null,
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 24
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "decision_tree",
+        "fold": 1,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 29,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 7,
+            "model__min_samples_split": 8
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "decision_tree",
+        "fold": 2,
+        "best_params": {
+            "model__criterion": "entropy",
+            "model__max_depth": 5,
+            "model__max_features": null,
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 2
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "decision_tree",
+        "fold": 3,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 21,
+            "model__max_features": null,
+            "model__min_samples_leaf": 10,
+            "model__min_samples_split": 30
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "decision_tree",
+        "fold": 4,
+        "best_params": {
+            "model__criterion": "log_loss",
+            "model__max_depth": 8,
+            "model__max_features": null,
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 29
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "decision_tree",
+        "fold": 5,
+        "best_params": {
+            "model__criterion": "entropy",
+            "model__max_depth": 10,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 12,
+            "model__min_samples_split": 16
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "decision_tree",
+        "fold": 6,
+        "best_params": {
+            "model__criterion": "entropy",
+            "model__max_depth": 21,
+            "model__max_features": null,
+            "model__min_samples_leaf": 4,
+            "model__min_samples_split": 30
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "decision_tree",
+        "fold": 7,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 16,
+            "model__max_features": null,
+            "model__min_samples_leaf": 12,
+            "model__min_samples_split": 8
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "decision_tree",
+        "fold": 8,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 11,
+            "model__max_features": null,
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 2
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "decision_tree",
+        "fold": 9,
+        "best_params": {
+            "model__criterion": "log_loss",
+            "model__max_depth": 6,
+            "model__max_features": null,
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 29
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "random_forest",
+        "fold": 0,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "log_loss",
+            "model__max_depth": 30,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 30,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "random_forest",
+        "fold": 1,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "entropy",
+            "model__max_depth": 13,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 21,
+            "model__n_estimators": 580
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "random_forest",
+        "fold": 2,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "entropy",
+            "model__max_depth": 25,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 2,
+            "model__min_samples_split": 13,
+            "model__n_estimators": 599
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "random_forest",
+        "fold": 3,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "entropy",
+            "model__max_depth": 14,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 2,
+            "model__min_samples_split": 21,
+            "model__n_estimators": 320
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "random_forest",
+        "fold": 4,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "entropy",
+            "model__max_depth": 13,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 20,
+            "model__n_estimators": 128
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "random_forest",
+        "fold": 5,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "log_loss",
+            "model__max_depth": 30,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 30,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "random_forest",
+        "fold": 6,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "gini",
+            "model__max_depth": 30,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 2,
+            "model__n_estimators": 600
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "random_forest",
+        "fold": 7,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "entropy",
+            "model__max_depth": 6,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 2,
+            "model__n_estimators": 207
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "random_forest",
+        "fold": 8,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "gini",
+            "model__max_depth": 11,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 3,
+            "model__min_samples_split": 24,
+            "model__n_estimators": 161
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "random_forest",
+        "fold": 9,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "gini",
+            "model__max_depth": 25,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 9,
+            "model__min_samples_split": 17,
+            "model__n_estimators": 341
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "extra_trees",
+        "fold": 0,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "log_loss",
+            "model__max_depth": 29,
+            "model__max_features": null,
+            "model__min_samples_leaf": 7,
+            "model__min_samples_split": 21,
+            "model__n_estimators": 600
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "extra_trees",
+        "fold": 1,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "entropy",
+            "model__max_depth": 22,
+            "model__max_features": null,
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 7,
+            "model__n_estimators": 428
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "extra_trees",
+        "fold": 2,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "log_loss",
+            "model__max_depth": 30,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 3,
+            "model__n_estimators": 125
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "extra_trees",
+        "fold": 3,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "gini",
+            "model__max_depth": 22,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 4,
+            "model__n_estimators": 235
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "extra_trees",
+        "fold": 4,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "entropy",
+            "model__max_depth": 13,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 20,
+            "model__n_estimators": 128
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "extra_trees",
+        "fold": 5,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "gini",
+            "model__max_depth": 12,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 8,
+            "model__min_samples_split": 4,
+            "model__n_estimators": 345
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "extra_trees",
+        "fold": 6,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "gini",
+            "model__max_depth": 30,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 6,
+            "model__n_estimators": 158
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "extra_trees",
+        "fold": 7,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "entropy",
+            "model__max_depth": 16,
+            "model__max_features": null,
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 24,
+            "model__n_estimators": 339
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "extra_trees",
+        "fold": 8,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "entropy",
+            "model__max_depth": 19,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 3,
+            "model__min_samples_split": 2,
+            "model__n_estimators": 600
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "extra_trees",
+        "fold": 9,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "gini",
+            "model__max_depth": 11,
+            "model__max_features": null,
+            "model__min_samples_leaf": 10,
+            "model__min_samples_split": 11,
+            "model__n_estimators": 375
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "xgboost",
+        "fold": 0,
+        "best_params": {
+            "model__colsample_bytree": 0.9295711795275995,
+            "model__gamma": 0.00023169375924273486,
+            "model__learning_rate": 0.012830924469910217,
+            "model__max_depth": 9,
+            "model__min_child_weight": 1,
+            "model__n_estimators": 257,
+            "model__reg_alpha": 5.530335924893316e-07,
+            "model__reg_lambda": 0.0920440459976504,
+            "model__subsample": 0.5156156077623035
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "xgboost",
+        "fold": 1,
+        "best_params": {
+            "model__colsample_bytree": 0.5811014565692968,
+            "model__gamma": 4.535998879196812,
+            "model__learning_rate": 0.0617465169952233,
+            "model__max_depth": 7,
+            "model__min_child_weight": 4,
+            "model__n_estimators": 538,
+            "model__reg_alpha": 1.755225726922317e-08,
+            "model__reg_lambda": 0.9588879160665326,
+            "model__subsample": 0.9690756350394067
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "xgboost",
+        "fold": 2,
+        "best_params": {
+            "model__colsample_bytree": 0.7184336003111349,
+            "model__gamma": 2.806416411801198e-06,
+            "model__learning_rate": 0.043392300242860775,
+            "model__max_depth": 4,
+            "model__min_child_weight": 2,
+            "model__n_estimators": 167,
+            "model__reg_alpha": 0.02983064370056904,
+            "model__reg_lambda": 7.25053488103171e-05,
+            "model__subsample": 0.830415006103874
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "xgboost",
+        "fold": 3,
+        "best_params": {
+            "model__colsample_bytree": 0.5717076934531705,
+            "model__gamma": 0.00876163823320502,
+            "model__learning_rate": 0.030095808379655628,
+            "model__max_depth": 4,
+            "model__min_child_weight": 1,
+            "model__n_estimators": 197,
+            "model__reg_alpha": 1.2989267722043485,
+            "model__reg_lambda": 0.00031940201329751607,
+            "model__subsample": 0.7936591880669759
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "xgboost",
+        "fold": 4,
+        "best_params": {
+            "model__colsample_bytree": 0.6676318303629936,
+            "model__gamma": 0.00012889812834414015,
+            "model__learning_rate": 0.01376640856314005,
+            "model__max_depth": 9,
+            "model__min_child_weight": 1,
+            "model__n_estimators": 595,
+            "model__reg_alpha": 2.921039559847002,
+            "model__reg_lambda": 0.00017556558543814518,
+            "model__subsample": 0.6127001287198398
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "xgboost",
+        "fold": 5,
+        "best_params": {
+            "model__colsample_bytree": 1.0,
+            "model__gamma": 10.0,
+            "model__learning_rate": 0.06521729569283093,
+            "model__max_depth": 8,
+            "model__min_child_weight": 11,
+            "model__n_estimators": 334,
+            "model__reg_alpha": 1.5498401170623603e-08,
+            "model__reg_lambda": 4.3011812527345095,
+            "model__subsample": 0.5381907141335371
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "xgboost",
+        "fold": 6,
+        "best_params": {
+            "model__colsample_bytree": 0.930877650792473,
+            "model__gamma": 1e-08,
+            "model__learning_rate": 0.0308212759378411,
+            "model__max_depth": 3,
+            "model__min_child_weight": 1,
+            "model__n_estimators": 600,
+            "model__reg_alpha": 3.27661646240166,
+            "model__reg_lambda": 3.875628488990694e-05,
+            "model__subsample": 0.6359885626022532
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "xgboost",
+        "fold": 7,
+        "best_params": {
+            "model__colsample_bytree": 0.7885103618659781,
+            "model__gamma": 3.0445564479598515,
+            "model__learning_rate": 0.26293157609401185,
+            "model__max_depth": 7,
+            "model__min_child_weight": 3,
+            "model__n_estimators": 565,
+            "model__reg_alpha": 1e-08,
+            "model__reg_lambda": 3.2579101124261686e-06,
+            "model__subsample": 0.7262069263020206
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "xgboost",
+        "fold": 8,
+        "best_params": {
+            "model__colsample_bytree": 0.9374274130756366,
+            "model__gamma": 1.7305303879693683e-08,
+            "model__learning_rate": 0.005970976975465808,
+            "model__max_depth": 12,
+            "model__min_child_weight": 2,
+            "model__n_estimators": 488,
+            "model__reg_alpha": 1.2599707470929365e-07,
+            "model__reg_lambda": 1.3435177016034925e-05,
+            "model__subsample": 0.6518536400837689
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "xgboost",
+        "fold": 9,
+        "best_params": {
+            "model__colsample_bytree": 0.739108884191685,
+            "model__gamma": 0.2542957931679705,
+            "model__learning_rate": 0.023064149642933178,
+            "model__max_depth": 3,
+            "model__min_child_weight": 1,
+            "model__n_estimators": 138,
+            "model__reg_alpha": 0.041334235595569785,
+            "model__reg_lambda": 0.01704928087648,
+            "model__subsample": 0.9863544242267595
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "adaboost",
+        "fold": 0,
+        "best_params": {
+            "model__learning_rate": 0.5045349554743356,
+            "model__n_estimators": 295
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "adaboost",
+        "fold": 1,
+        "best_params": {
+            "model__learning_rate": 0.03559237027751884,
+            "model__n_estimators": 400
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "adaboost",
+        "fold": 2,
+        "best_params": {
+            "model__learning_rate": 0.05562742965031681,
+            "model__n_estimators": 400
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "adaboost",
+        "fold": 3,
+        "best_params": {
+            "model__learning_rate": 0.16478877645610296,
+            "model__n_estimators": 400
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "adaboost",
+        "fold": 4,
+        "best_params": {
+            "model__learning_rate": 0.021761853087793142,
+            "model__n_estimators": 387
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "adaboost",
+        "fold": 5,
+        "best_params": {
+            "model__learning_rate": 0.051163033503532365,
+            "model__n_estimators": 133
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "adaboost",
+        "fold": 6,
+        "best_params": {
+            "model__learning_rate": 0.974215452987615,
+            "model__n_estimators": 43
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "adaboost",
+        "fold": 7,
+        "best_params": {
+            "model__learning_rate": 0.2925861259956278,
+            "model__n_estimators": 234
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "adaboost",
+        "fold": 8,
+        "best_params": {
+            "model__learning_rate": 0.11869519715752208,
+            "model__n_estimators": 400
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "adaboost",
+        "fold": 9,
+        "best_params": {
+            "model__learning_rate": 0.07022154891742514,
+            "model__n_estimators": 105
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "svm",
+        "fold": 0,
+        "best_params": {
+            "model__C": 4.405639021651804,
+            "model__gamma": 0.1729897577537154
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "svm",
+        "fold": 1,
+        "best_params": {
+            "model__C": 5.579390160214091,
+            "model__gamma": 0.010645174183172396
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "svm",
+        "fold": 2,
+        "best_params": {
+            "model__C": 2.019256741976618,
+            "model__gamma": 0.08913371243181022
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "svm",
+        "fold": 3,
+        "best_params": {
+            "model__C": 2.496048213438873,
+            "model__gamma": 0.06806176880284263
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "svm",
+        "fold": 4,
+        "best_params": {
+            "model__C": 0.6897420209110567,
+            "model__gamma": 0.10407793801708316
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "svm",
+        "fold": 5,
+        "best_params": {
+            "model__C": 1.7213826648457604,
+            "model__gamma": 0.07512767010340288
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "svm",
+        "fold": 6,
+        "best_params": {
+            "model__C": 1.4484241402562394,
+            "model__gamma": 0.1793795375650033
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "svm",
+        "fold": 7,
+        "best_params": {
+            "model__C": 1.4851691837153853,
+            "model__gamma": 0.11510597929133666
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "svm",
+        "fold": 8,
+        "best_params": {
+            "model__C": 14.855843163246657,
+            "model__gamma": 0.003755617483131913
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "svm",
+        "fold": 9,
+        "best_params": {
+            "model__C": 2.4628491942767345,
+            "model__gamma": 0.04146693415876957
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "logistic_regression",
+        "fold": 0,
+        "best_params": {
+            "model__C": 3.050405028609533,
+            "model__solver": "lbfgs"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "logistic_regression",
+        "fold": 1,
+        "best_params": {
+            "model__C": 0.41230542168454143,
+            "model__solver": "newton-cg"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "logistic_regression",
+        "fold": 2,
+        "best_params": {
+            "model__C": 1.2443550426693777,
+            "model__solver": "saga"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "logistic_regression",
+        "fold": 3,
+        "best_params": {
+            "model__C": 0.3403594216197458,
+            "model__solver": "newton-cg"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "logistic_regression",
+        "fold": 4,
+        "best_params": {
+            "model__C": 0.26664710948727716,
+            "model__solver": "newton-cg"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "logistic_regression",
+        "fold": 5,
+        "best_params": {
+            "model__C": 0.302068829265683,
+            "model__solver": "saga"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "logistic_regression",
+        "fold": 6,
+        "best_params": {
+            "model__C": 0.7133425919939401,
+            "model__solver": "lbfgs"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "logistic_regression",
+        "fold": 7,
+        "best_params": {
+            "model__C": 0.49332386163026504,
+            "model__solver": "lbfgs"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "logistic_regression",
+        "fold": 8,
+        "best_params": {
+            "model__C": 0.20320061250865679,
+            "model__solver": "saga"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "logistic_regression",
+        "fold": 9,
+        "best_params": {
+            "model__C": 0.2574476778951577,
+            "model__solver": "saga"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "knn",
+        "fold": 0,
+        "best_params": {
+            "model__n_neighbors": 20,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "knn",
+        "fold": 1,
+        "best_params": {
+            "model__n_neighbors": 12,
+            "model__p": 1,
+            "model__weights": "uniform"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "knn",
+        "fold": 2,
+        "best_params": {
+            "model__n_neighbors": 17,
+            "model__p": 1,
+            "model__weights": "uniform"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "knn",
+        "fold": 3,
+        "best_params": {
+            "model__n_neighbors": 48,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "knn",
+        "fold": 4,
+        "best_params": {
+            "model__n_neighbors": 51,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "knn",
+        "fold": 5,
+        "best_params": {
+            "model__n_neighbors": 49,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "knn",
+        "fold": 6,
+        "best_params": {
+            "model__n_neighbors": 15,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "knn",
+        "fold": 7,
+        "best_params": {
+            "model__n_neighbors": 25,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "knn",
+        "fold": 8,
+        "best_params": {
+            "model__n_neighbors": 29,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "knn",
+        "fold": 9,
+        "best_params": {
+            "model__n_neighbors": 19,
+            "model__p": 1,
+            "model__weights": "uniform"
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "gaussian_nb",
+        "fold": 0,
+        "best_params": {
+            "model__var_smoothing": 1.3393101007869412e-09
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "gaussian_nb",
+        "fold": 1,
+        "best_params": {
+            "model__var_smoothing": 2.7403606172958116e-12
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "gaussian_nb",
+        "fold": 2,
+        "best_params": {
+            "model__var_smoothing": 2.6955409325579776e-07
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "gaussian_nb",
+        "fold": 3,
+        "best_params": {
+            "model__var_smoothing": 3.833392086815744e-10
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "gaussian_nb",
+        "fold": 4,
+        "best_params": {
+            "model__var_smoothing": 1.2545629720560977e-09
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "gaussian_nb",
+        "fold": 5,
+        "best_params": {
+            "model__var_smoothing": 1.6499557422164544e-10
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "gaussian_nb",
+        "fold": 6,
+        "best_params": {
+            "model__var_smoothing": 1e-12
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "gaussian_nb",
+        "fold": 7,
+        "best_params": {
+            "model__var_smoothing": 1.1101055344468146e-12
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "gaussian_nb",
+        "fold": 8,
+        "best_params": {
+            "model__var_smoothing": 3.0186842650981653e-12
+        }
+    },
+    {
+        "domain": "impacto_motor",
+        "model": "gaussian_nb",
+        "fold": 9,
+        "best_params": {
+            "model__var_smoothing": 2.2707608072193805e-09
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "decision_tree",
+        "fold": 0,
+        "best_params": {
+            "model__criterion": "log_loss",
+            "model__max_depth": 6,
+            "model__max_features": null,
+            "model__min_samples_leaf": 2,
+            "model__min_samples_split": 11
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "decision_tree",
+        "fold": 1,
+        "best_params": {
+            "model__criterion": "entropy",
+            "model__max_depth": 4,
+            "model__max_features": null,
+            "model__min_samples_leaf": 3,
+            "model__min_samples_split": 3
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "decision_tree",
+        "fold": 2,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 30,
+            "model__max_features": null,
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 25
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "decision_tree",
+        "fold": 3,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 30,
+            "model__max_features": null,
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 14
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "decision_tree",
+        "fold": 4,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 19,
+            "model__max_features": null,
+            "model__min_samples_leaf": 13,
+            "model__min_samples_split": 30
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "decision_tree",
+        "fold": 5,
+        "best_params": {
+            "model__criterion": "log_loss",
+            "model__max_depth": 30,
+            "model__max_features": null,
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 30
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "decision_tree",
+        "fold": 6,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 24,
+            "model__max_features": null,
+            "model__min_samples_leaf": 14,
+            "model__min_samples_split": 17
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "decision_tree",
+        "fold": 7,
+        "best_params": {
+            "model__criterion": "gini",
+            "model__max_depth": 13,
+            "model__max_features": null,
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 30
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "decision_tree",
+        "fold": 8,
+        "best_params": {
+            "model__criterion": "log_loss",
+            "model__max_depth": 3,
+            "model__max_features": null,
+            "model__min_samples_leaf": 3,
+            "model__min_samples_split": 6
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "decision_tree",
+        "fold": 9,
+        "best_params": {
+            "model__criterion": "entropy",
+            "model__max_depth": 4,
+            "model__max_features": null,
+            "model__min_samples_leaf": 13,
+            "model__min_samples_split": 2
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "random_forest",
+        "fold": 0,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "entropy",
+            "model__max_depth": 17,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 13,
+            "model__min_samples_split": 15,
+            "model__n_estimators": 487
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "random_forest",
+        "fold": 1,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "log_loss",
+            "model__max_depth": 30,
+            "model__max_features": null,
+            "model__min_samples_leaf": 13,
+            "model__min_samples_split": 2,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "random_forest",
+        "fold": 2,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "log_loss",
+            "model__max_depth": 3,
+            "model__max_features": null,
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 2,
+            "model__n_estimators": 600
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "random_forest",
+        "fold": 3,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "entropy",
+            "model__max_depth": 3,
+            "model__max_features": null,
+            "model__min_samples_leaf": 2,
+            "model__min_samples_split": 11,
+            "model__n_estimators": 600
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "random_forest",
+        "fold": 4,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "gini",
+            "model__max_depth": 3,
+            "model__max_features": null,
+            "model__min_samples_leaf": 7,
+            "model__min_samples_split": 12,
+            "model__n_estimators": 600
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "random_forest",
+        "fold": 5,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "gini",
+            "model__max_depth": 3,
+            "model__max_features": null,
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 2,
+            "model__n_estimators": 600
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "random_forest",
+        "fold": 6,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "gini",
+            "model__max_depth": 3,
+            "model__max_features": null,
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 30,
+            "model__n_estimators": 600
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "random_forest",
+        "fold": 7,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "gini",
+            "model__max_depth": 3,
+            "model__max_features": null,
+            "model__min_samples_leaf": 9,
+            "model__min_samples_split": 30,
+            "model__n_estimators": 600
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "random_forest",
+        "fold": 8,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "gini",
+            "model__max_depth": 12,
+            "model__max_features": null,
+            "model__min_samples_leaf": 7,
+            "model__min_samples_split": 30,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "random_forest",
+        "fold": 9,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "log_loss",
+            "model__max_depth": 3,
+            "model__max_features": null,
+            "model__min_samples_leaf": 10,
+            "model__min_samples_split": 15,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "extra_trees",
+        "fold": 0,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "gini",
+            "model__max_depth": 9,
+            "model__max_features": null,
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 8,
+            "model__n_estimators": 548
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "extra_trees",
+        "fold": 1,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "log_loss",
+            "model__max_depth": 23,
+            "model__max_features": "log2",
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 15,
+            "model__n_estimators": 114
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "extra_trees",
+        "fold": 2,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "entropy",
+            "model__max_depth": 12,
+            "model__max_features": null,
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 30,
+            "model__n_estimators": 102
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "extra_trees",
+        "fold": 3,
+        "best_params": {
+            "model__bootstrap": false,
+            "model__criterion": "gini",
+            "model__max_depth": 3,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 15,
+            "model__min_samples_split": 30,
+            "model__n_estimators": 504
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "extra_trees",
+        "fold": 4,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "entropy",
+            "model__max_depth": 3,
+            "model__max_features": null,
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 19,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "extra_trees",
+        "fold": 5,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "entropy",
+            "model__max_depth": 19,
+            "model__max_features": null,
+            "model__min_samples_leaf": 14,
+            "model__min_samples_split": 3,
+            "model__n_estimators": 118
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "extra_trees",
+        "fold": 6,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "log_loss",
+            "model__max_depth": 16,
+            "model__max_features": null,
+            "model__min_samples_leaf": 1,
+            "model__min_samples_split": 6,
+            "model__n_estimators": 223
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "extra_trees",
+        "fold": 7,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "log_loss",
+            "model__max_depth": 12,
+            "model__max_features": null,
+            "model__min_samples_leaf": 6,
+            "model__min_samples_split": 23,
+            "model__n_estimators": 131
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "extra_trees",
+        "fold": 8,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "gini",
+            "model__max_depth": 30,
+            "model__max_features": null,
+            "model__min_samples_leaf": 8,
+            "model__min_samples_split": 2,
+            "model__n_estimators": 100
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "extra_trees",
+        "fold": 9,
+        "best_params": {
+            "model__bootstrap": true,
+            "model__criterion": "log_loss",
+            "model__max_depth": 24,
+            "model__max_features": "sqrt",
+            "model__min_samples_leaf": 5,
+            "model__min_samples_split": 8,
+            "model__n_estimators": 382
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "xgboost",
+        "fold": 0,
+        "best_params": {
+            "model__colsample_bytree": 0.92262280233022,
+            "model__gamma": 1.6620867700155152e-07,
+            "model__learning_rate": 0.0013565292462051327,
+            "model__max_depth": 4,
+            "model__min_child_weight": 5,
+            "model__n_estimators": 244,
+            "model__reg_alpha": 0.11271603593699019,
+            "model__reg_lambda": 1.4772947469511202e-05,
+            "model__subsample": 0.5131215982069581
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "xgboost",
+        "fold": 1,
+        "best_params": {
+            "model__colsample_bytree": 0.5811014565692968,
+            "model__gamma": 4.535998879196812,
+            "model__learning_rate": 0.0617465169952233,
+            "model__max_depth": 7,
+            "model__min_child_weight": 4,
+            "model__n_estimators": 538,
+            "model__reg_alpha": 1.755225726922317e-08,
+            "model__reg_lambda": 0.9588879160665326,
+            "model__subsample": 0.9690756350394067
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "xgboost",
+        "fold": 2,
+        "best_params": {
+            "model__colsample_bytree": 0.7158201087077489,
+            "model__gamma": 2.149367879373829e-05,
+            "model__learning_rate": 0.003459076352573144,
+            "model__max_depth": 4,
+            "model__min_child_weight": 9,
+            "model__n_estimators": 560,
+            "model__reg_alpha": 3.274284301866503e-05,
+            "model__reg_lambda": 5.251040770510176,
+            "model__subsample": 0.772750242006343
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "xgboost",
+        "fold": 3,
+        "best_params": {
+            "model__colsample_bytree": 0.7054074657297014,
+            "model__gamma": 0.001456533737391541,
+            "model__learning_rate": 0.026992747722120795,
+            "model__max_depth": 3,
+            "model__min_child_weight": 2,
+            "model__n_estimators": 207,
+            "model__reg_alpha": 1e-08,
+            "model__reg_lambda": 20.0,
+            "model__subsample": 0.9905824651247561
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "xgboost",
+        "fold": 4,
+        "best_params": {
+            "model__colsample_bytree": 0.986002987697504,
+            "model__gamma": 2.672635780332641e-08,
+            "model__learning_rate": 0.001,
+            "model__max_depth": 3,
+            "model__min_child_weight": 1,
+            "model__n_estimators": 592,
+            "model__reg_alpha": 1e-08,
+            "model__reg_lambda": 1e-06,
+            "model__subsample": 0.5
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "xgboost",
+        "fold": 5,
+        "best_params": {
+            "model__colsample_bytree": 0.684789357918383,
+            "model__gamma": 0.00014590482606482156,
+            "model__learning_rate": 0.02014341852281574,
+            "model__max_depth": 6,
+            "model__min_child_weight": 6,
+            "model__n_estimators": 205,
+            "model__reg_alpha": 0.034038373500564205,
+            "model__reg_lambda": 1.7155017470620475e-05,
+            "model__subsample": 0.8472863762324927
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "xgboost",
+        "fold": 6,
+        "best_params": {
+            "model__colsample_bytree": 0.5282784900680564,
+            "model__gamma": 0.002089015576786373,
+            "model__learning_rate": 0.019214363163040437,
+            "model__max_depth": 7,
+            "model__min_child_weight": 9,
+            "model__n_estimators": 260,
+            "model__reg_alpha": 1.2130214698114826e-08,
+            "model__reg_lambda": 2.822184110854144e-05,
+            "model__subsample": 0.8081956599651026
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "xgboost",
+        "fold": 7,
+        "best_params": {
+            "model__colsample_bytree": 0.9453007343478868,
+            "model__gamma": 2.564459608489491,
+            "model__learning_rate": 0.010356114077040601,
+            "model__max_depth": 11,
+            "model__min_child_weight": 1,
+            "model__n_estimators": 508,
+            "model__reg_alpha": 9.041470788929878e-06,
+            "model__reg_lambda": 11.568173283280395,
+            "model__subsample": 0.7732764173302731
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "xgboost",
+        "fold": 8,
+        "best_params": {
+            "model__colsample_bytree": 0.5,
+            "model__gamma": 0.00012469112507837348,
+            "model__learning_rate": 0.01706729687808496,
+            "model__max_depth": 3,
+            "model__min_child_weight": 1,
+            "model__n_estimators": 148,
+            "model__reg_alpha": 1.0455548461300344,
+            "model__reg_lambda": 2.82752405838544e-06,
+            "model__subsample": 0.8496136404214565
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "xgboost",
+        "fold": 9,
+        "best_params": {
+            "model__colsample_bytree": 0.6862667462820646,
+            "model__gamma": 4.578204781867986e-08,
+            "model__learning_rate": 0.001,
+            "model__max_depth": 3,
+            "model__min_child_weight": 12,
+            "model__n_estimators": 200,
+            "model__reg_alpha": 1e-08,
+            "model__reg_lambda": 1.0238728155378528e-06,
+            "model__subsample": 0.9260023809940041
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "adaboost",
+        "fold": 0,
+        "best_params": {
+            "model__learning_rate": 0.5045349554743356,
+            "model__n_estimators": 295
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "adaboost",
+        "fold": 1,
+        "best_params": {
+            "model__learning_rate": 0.5618310985515836,
+            "model__n_estimators": 257
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "adaboost",
+        "fold": 2,
+        "best_params": {
+            "model__learning_rate": 0.1358256043625816,
+            "model__n_estimators": 400
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "adaboost",
+        "fold": 3,
+        "best_params": {
+            "model__learning_rate": 0.35792864406064256,
+            "model__n_estimators": 186
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "adaboost",
+        "fold": 4,
+        "best_params": {
+            "model__learning_rate": 0.8180127714042087,
+            "model__n_estimators": 246
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "adaboost",
+        "fold": 5,
+        "best_params": {
+            "model__learning_rate": 0.9143270756179586,
+            "model__n_estimators": 295
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "adaboost",
+        "fold": 6,
+        "best_params": {
+            "model__learning_rate": 0.40536463301934195,
+            "model__n_estimators": 400
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "adaboost",
+        "fold": 7,
+        "best_params": {
+            "model__learning_rate": 0.29272409750154477,
+            "model__n_estimators": 394
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "adaboost",
+        "fold": 8,
+        "best_params": {
+            "model__learning_rate": 0.9495720659772999,
+            "model__n_estimators": 400
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "adaboost",
+        "fold": 9,
+        "best_params": {
+            "model__learning_rate": 0.6097904272199488,
+            "model__n_estimators": 207
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "svm",
+        "fold": 0,
+        "best_params": {
+            "model__C": 0.43085162111647807,
+            "model__gamma": 0.09315904294930007
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "svm",
+        "fold": 1,
+        "best_params": {
+            "model__C": 0.2401789757004584,
+            "model__gamma": 0.0004846688377342196
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "svm",
+        "fold": 2,
+        "best_params": {
+            "model__C": 0.007264614927295538,
+            "model__gamma": 0.20868348469145093
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "svm",
+        "fold": 3,
+        "best_params": {
+            "model__C": 0.001,
+            "model__gamma": 0.2890652203381028
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "svm",
+        "fold": 4,
+        "best_params": {
+            "model__C": 0.004006282738426013,
+            "model__gamma": 1.10564932315292
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "svm",
+        "fold": 5,
+        "best_params": {
+            "model__C": 0.5940996178064162,
+            "model__gamma": 0.038694836271775425
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "svm",
+        "fold": 6,
+        "best_params": {
+            "model__C": 0.35510464398569763,
+            "model__gamma": 0.12100682279572354
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "svm",
+        "fold": 7,
+        "best_params": {
+            "model__C": 3.1235524320396024,
+            "model__gamma": 0.04836687976592659
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "svm",
+        "fold": 8,
+        "best_params": {
+            "model__C": 0.4067008267781471,
+            "model__gamma": 0.6118309086562926
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "svm",
+        "fold": 9,
+        "best_params": {
+            "model__C": 0.005987525716800542,
+            "model__gamma": 0.16604155177208565
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "logistic_regression",
+        "fold": 0,
+        "best_params": {
+            "model__C": 4.512933435420199,
+            "model__solver": "saga"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "logistic_regression",
+        "fold": 1,
+        "best_params": {
+            "model__C": 31.46380502812641,
+            "model__solver": "newton-cg"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "logistic_regression",
+        "fold": 2,
+        "best_params": {
+            "model__C": 2.923537025681914,
+            "model__solver": "lbfgs"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "logistic_regression",
+        "fold": 3,
+        "best_params": {
+            "model__C": 0.281357048958583,
+            "model__solver": "newton-cg"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "logistic_regression",
+        "fold": 4,
+        "best_params": {
+            "model__C": 4.224121306666226,
+            "model__solver": "lbfgs"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "logistic_regression",
+        "fold": 5,
+        "best_params": {
+            "model__C": 0.16366706033080794,
+            "model__solver": "saga"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "logistic_regression",
+        "fold": 6,
+        "best_params": {
+            "model__C": 2.6045304070613886,
+            "model__solver": "lbfgs"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "logistic_regression",
+        "fold": 7,
+        "best_params": {
+            "model__C": 23.380054811399702,
+            "model__solver": "lbfgs"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "logistic_regression",
+        "fold": 8,
+        "best_params": {
+            "model__C": 49.78346079307817,
+            "model__solver": "newton-cg"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "logistic_regression",
+        "fold": 9,
+        "best_params": {
+            "model__C": 0.3469797162807744,
+            "model__solver": "saga"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "knn",
+        "fold": 0,
+        "best_params": {
+            "model__n_neighbors": 35,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "knn",
+        "fold": 1,
+        "best_params": {
+            "model__n_neighbors": 31,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "knn",
+        "fold": 2,
+        "best_params": {
+            "model__n_neighbors": 28,
+            "model__p": 2,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "knn",
+        "fold": 3,
+        "best_params": {
+            "model__n_neighbors": 35,
+            "model__p": 2,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "knn",
+        "fold": 4,
+        "best_params": {
+            "model__n_neighbors": 29,
+            "model__p": 2,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "knn",
+        "fold": 5,
+        "best_params": {
+            "model__n_neighbors": 24,
+            "model__p": 2,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "knn",
+        "fold": 6,
+        "best_params": {
+            "model__n_neighbors": 42,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "knn",
+        "fold": 7,
+        "best_params": {
+            "model__n_neighbors": 28,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "knn",
+        "fold": 8,
+        "best_params": {
+            "model__n_neighbors": 51,
+            "model__p": 2,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "knn",
+        "fold": 9,
+        "best_params": {
+            "model__n_neighbors": 47,
+            "model__p": 1,
+            "model__weights": "distance"
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "gaussian_nb",
+        "fold": 0,
+        "best_params": {
+            "model__var_smoothing": 9.993886100316884e-07
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "gaussian_nb",
+        "fold": 1,
+        "best_params": {
+            "model__var_smoothing": 1.383956242878046e-11
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "gaussian_nb",
+        "fold": 2,
+        "best_params": {
+            "model__var_smoothing": 1e-06
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "gaussian_nb",
+        "fold": 3,
+        "best_params": {
+            "model__var_smoothing": 3.833392086815744e-10
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "gaussian_nb",
+        "fold": 4,
+        "best_params": {
+            "model__var_smoothing": 6.774566099994917e-07
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "gaussian_nb",
+        "fold": 5,
+        "best_params": {
+            "model__var_smoothing": 1.1567790148410808e-12
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "gaussian_nb",
+        "fold": 6,
+        "best_params": {
+            "model__var_smoothing": 1.1694948273255101e-10
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "gaussian_nb",
+        "fold": 7,
+        "best_params": {
+            "model__var_smoothing": 1.4653363901319947e-07
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "gaussian_nb",
+        "fold": 8,
+        "best_params": {
+            "model__var_smoothing": 1.8589516867456157e-07
+        }
+    },
+    {
+        "domain": "non_motor",
+        "model": "gaussian_nb",
+        "fold": 9,
+        "best_params": {
+            "model__var_smoothing": 1.847891047928786e-11
+        }
+    }
+]
