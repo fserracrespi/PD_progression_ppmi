@@ -1,0 +1,3 @@
+exp_id,test_acc_mean,test_acc_std,test_balanced_acc_mean,test_balanced_acc_std,test_f1_macro_mean,test_f1_macro_std,test_f1_weighted_mean,test_f1_weighted_std,test_recall_0_mean,test_recall_0_std,test_recall_1_mean,test_recall_1_std,test_recall_2_mean,test_recall_2_std
+E13_transfer_all,0.8615384615384616,,0.8636363636363636,,0.8590840711238256,,0.8582539263986402,,1.0,,0.7272727272727273,,0.8636363636363636,
+E13_transfer_first_layer,0.8461538461538461,,0.8484848484848485,,0.8398169336384439,,0.8386903714134835,,1.0,,0.6363636363636364,,0.9090909090909091,
