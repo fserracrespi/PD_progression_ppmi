@@ -1,0 +1,36 @@
+{
+  "target_col": "STAGE_HY3",
+  "batch_size": 16,
+  "reserved_per_class": 72,
+  "val_size_binary": 0.2,
+  "val_size_multiclass_from_train": 0.15,
+  "scaler_strategy": "binary_train",
+  "hidden_dims": [
+    384,
+    64
+  ],
+  "dropout": 0.3,
+  "bin_lr": 0.001,
+  "bin_epochs": 100,
+  "bin_patience": 10,
+  "head_lr": 0.001,
+  "head_epochs": 40,
+  "head_patience": 10,
+  "ft_lr": 0.0003,
+  "ft_epochs": 80,
+  "ft_patience": 5,
+  "weight_decay": 0.0001,
+  "use_class_weights": true,
+  "multiclass_weights": [
+    1.0,
+    1.5,
+    1.0
+  ],
+  "use_transfer": true,
+  "transfer_mode": "all",
+  "phase1_freeze": true,
+  "phase2_finetune": true,
+  "train_from_scratch_same_budget": false,
+  "verbose": true,
+  "output_dir": "resultados_experimentos_transfer_X_STATS_MANUAL_CV"
+}
